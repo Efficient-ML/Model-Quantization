@@ -11,6 +11,7 @@ This repo collects papers, documents, and codes about model quantization for any
   - [2024](#2024)
   - [2023](#2023)
   - [2022–2015](#2022)
+- [Books](#books)
 - [Related Repositories](#related-repositories)
 
 ## Benchmarks
@@ -913,6 +914,10 @@ This repo collects papers, documents, and codes about model quantization for any
 - [[ICML](https://arxiv.org/abs/1601.06071)] Bitwise Neural Networks
 - [[NeurIPS](https://arxiv.org/abs/1511.00363)] BinaryConnect: Training Deep Neural Networks with binary weights during propagations [[code](https://github.com/MatthieuCourbariaux/BinaryConnect)] [![GitHub stars](https://img.shields.io/github/stars/MatthieuCourbariaux/BinaryConnect?style=social)](https://github.com/MatthieuCourbariaux/BinaryConnect)
 - [[arXiv](https://arxiv.org/abs/1511.06488)] Resiliency of Deep Neural Networks under quantizations
+
+## Books
+
+- [Quantization and Fast Inference: A practitioner’s guide to efficient AI](https://www.manning.com/books/quantization-and-fast-inference)
 
 ## Related Repositories
 
