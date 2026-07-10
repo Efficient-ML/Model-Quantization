@@ -924,13 +924,3 @@ This repo collects papers, documents, and codes about model quantization for any
 
 - [Awesome Efficient LLM & Diffusion](https://github.com/efficient-ml/awesome-efficient-llm-diffusion)
 - [Awesome Quantization Papers](https://github.com/Zhen-Dong/Awesome-Quantization-Papers)
-
-## Star History
-
-<a href="https://www.star-history.com/?repos=Efficient-ML%2FAwesome-Model-Quantization&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=AI-Efficiency/Awesome-Model-Quantization&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=AI-Efficiency/Awesome-Model-Quantization&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=AI-Efficiency/Awesome-Model-Quantization&type=date&legend=top-left" />
- </picture>
-</a>
